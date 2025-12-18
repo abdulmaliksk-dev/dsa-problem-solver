@@ -55,7 +55,7 @@ B.Tech CSE | IIT Madras BS Data Science
 
 ## 📫 Connect
 
-- LinkedIn: [abdul-malik-sk](https://www.linkedin.com/in/abdul-malik-shaik-323b20338)
+- LinkedIn: [abdul-malik-sk](https://www.linkedin.com/in/abdul-malik-sk-323b20338)
 - Email: abdulmalik.sk.dev@gmail.com
 
 ---
