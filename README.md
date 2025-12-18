@@ -18,7 +18,7 @@ Each algorithm includes:
 
 ## 🛠️ Technologies
 
-- Python 3.x
+- Python 3.13
 - Object-Oriented Programming
 - Algorithm Design
 
@@ -55,7 +55,7 @@ B.Tech CSE | IIT Madras BS Data Science
 
 ## 📫 Connect
 
-- LinkedIn: [abdul-malik-sk](https://www.linkedin.com/in/abdul-malik-sk-323b20338)
+- LinkedIn: [abdul-malik-sk](https://www.linkedin.com/in/abdul-malik-shaik-323b20338)
 - Email: abdulmalik.sk.dev@gmail.com
 
 ---
